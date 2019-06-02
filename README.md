@@ -1,5 +1,7 @@
 # 高等数学备考自救笔记
 
+## 前言
+
 还有三天就到高数重修班的期末考试了≡(▔﹏▔)≡  
 然而完全没有复习的本渣慌得一批。  
 而且我是个数学苦手（听数理学科相关的课真的会很快失去意识）  
@@ -16,6 +18,7 @@
 P.S.最好能够搭配课本一起食用！
 
 ## 目录
+
 [第八章 向量代数与空间解析几何](https://github.com/ValdisE/calculus-for-exam/blob/master/notes/08.%E5%90%91%E9%87%8F%E4%BB%A3%E6%95%B0%E4%B8%8E%E7%A9%BA%E9%97%B4%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95.md)  
 [第九章 多元函数微分法及其应用](https://github.com/ValdisE/calculus-for-exam/blob/master/notes/09.%E5%A4%9A%E5%85%83%E5%87%BD%E6%95%B0%E5%BE%AE%E5%88%86%E6%B3%95%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.md)  
 [第十章 重积分](https://github.com/ValdisE/calculus-for-exam/blob/master/notes/10.%E9%87%8D%E7%A7%AF%E5%88%86.md)  
